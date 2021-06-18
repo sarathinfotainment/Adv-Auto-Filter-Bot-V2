@@ -27,6 +27,11 @@
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
+        "FORCESUB_CHANNEL": {
+            "description": "For Force Subscribe.(bot should be admin in this fsub channel) Paste your forcesubscribe channel USERNAME (without @)..",
+            "value": "",
+            "required": false
+        },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
